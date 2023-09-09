@@ -2,7 +2,7 @@
 
 DiscSearch is a modern Database search Engine software which has over 150B records available, for just $7 monthly
 
-![image](https://github.com/DiscSearch/.github/assets/138330732/83dcfd38-1cd3-48a3-804e-a019b4d43e19)
+![image](https://github.com/DiscSearch/.github/assets/138330732/91bc3a04-bbad-46be-b26b-a7910dc3d329)
 
 
 ### DiscSearch
