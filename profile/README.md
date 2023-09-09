@@ -8,7 +8,7 @@ Discover our modern database engine search tool, boasting an impressive database
 
 ### Services Offered
 
-<img src="https://github.com/DiscSearch/.github/assets/138330732/91bc3a04-bbad-46be-b26b-a7910dc3d329" align="right" width="500px"/>
+<img src="https://github.com/DiscSearch/.github/assets/138330732/91bc3a04-bbad-46be-b26b-a7910dc3d329" align="right" width="600px"/>
 
 <br>
 
